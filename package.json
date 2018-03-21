@@ -1,0 +1,24 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "TypeScript Beginners",
+  "main": "i01. Intro.js",
+  "typings": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhanukaUOM/typescript.git"
+  },
+  "author": "Bhanuka Rathnayaka <bhanuka2017@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhanukaUOM/typescript/issues"
+  },
+  "homepage": "https://github.com/BhanukaUOM/typescript#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.62",
+    "lodash": "^4.17.4"
+  }
+}
