@@ -9,3 +9,5 @@ Main devices and modules
     Raspberry PI
     LED  matrix
     Shift registers
+    Mic
+    USB Sound Card
