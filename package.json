@@ -2,7 +2,7 @@
   "name": "typescript-playground",
   "version": "1.0.0",
   "description": "TypeScript Beginners",
-  "main": "index.js",
+  "main": "index.d.js",
   "typings": "index.ts",
   "scripts": {
     "build": "tsc"
